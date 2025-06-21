@@ -21,7 +21,7 @@ Dünyanın en lezzetli tatlılarını keşfetmeye hazır mısınız?
 
 ## 📱 Ekran Görüntüleri
 
-[Buraya ekran görüntüleri eklenecek]
+-----
 
 ## 🚀 Kurulum
 
@@ -29,6 +29,3 @@ Dünyanın en lezzetli tatlılarını keşfetmeye hazır mısınız?
 2. Xcode ile açın
 3. Build ve Run
 
-## 📧 İletişim
-
-[İletişim bilgileriniz]
